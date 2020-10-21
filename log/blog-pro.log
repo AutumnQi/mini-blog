@@ -1,0 +1,10 @@
+2020-10-19 23:19:57.377  INFO 50378 --- [restartedMain] com.autumn.blog.BlogApplication          : Starting BlogApplication on QZT-inlab-Macbook-Pro.local with PID 50378 (/Users/inlab/IdeaProjects/blog/target/classes started by inlab in /Users/inlab/IdeaProjects/blog)
+2020-10-19 23:19:57.384  INFO 50378 --- [restartedMain] com.autumn.blog.BlogApplication          : The following profiles are active: pro
+2020-10-19 23:19:59.080  WARN 50378 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-19 23:19:59.347  WARN 50378 --- [task-1] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-10-19 23:19:59.498  INFO 50378 --- [restartedMain] com.autumn.blog.BlogApplication          : Started BlogApplication in 2.574 seconds (JVM running for 3.619)
+2020-10-19 23:21:13.617  INFO 50378 --- [restartedMain] com.autumn.blog.BlogApplication          : Starting BlogApplication on QZT-inlab-Macbook-Pro.local with PID 50378 (/Users/inlab/IdeaProjects/blog/target/classes started by inlab in /Users/inlab/IdeaProjects/blog)
+2020-10-19 23:21:13.618  INFO 50378 --- [restartedMain] com.autumn.blog.BlogApplication          : The following profiles are active: pro
+2020-10-19 23:21:13.902  WARN 50378 --- [task-1] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-10-19 23:21:13.914  WARN 50378 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-19 23:21:14.025  INFO 50378 --- [restartedMain] com.autumn.blog.BlogApplication          : Started BlogApplication in 0.431 seconds (JVM running for 78.146)

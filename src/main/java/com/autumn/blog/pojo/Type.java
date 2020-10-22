@@ -1,6 +1,9 @@
 package com.autumn.blog.pojo;
 
+import org.springframework.lang.NonNull;
+
 import javax.persistence.*;
+import javax.validation.constraints.NotBlank;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -11,6 +14,7 @@ public class Type {
     @Id
     @GeneratedValue
     private Long id;
+    @NotBlank(message = "分类名称不能为空")
     private String name;
 
     //指定由blog来进行管理，两者join的key为type
